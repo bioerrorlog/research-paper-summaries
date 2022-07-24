@@ -53,7 +53,7 @@ Tierraの実行を担うTierran OSを開発した(細胞としてのメモリ割
 - "molecular, "cellular", "ecological"という階層を反映させた進化モデル。
 - Reaperではなく"捕食"による淘汰。
 
-## Reference
+## Reference / Next readings
 <!-- Which of the papers listed in the related studies are close and which you have not read? -->
 <!-- Which of the related papers should I read next? -->
 

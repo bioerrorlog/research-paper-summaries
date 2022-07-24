@@ -19,7 +19,7 @@
 ## Unknown
 <!-- What is still unknown or unresolved? -->
 
-## Reference
+## Reference / Next readings
 <!-- Which of the papers listed in the related studies are close and which you have not read? -->
 <!-- Which of the related papers should I read next? -->
 
