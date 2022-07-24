@@ -1,6 +1,8 @@
 # Title
 <!-- Author, year and journal infomations. -->
 
+<!-- Link to the paper -->
+
 ## Motivation
 <!-- What issues or problems did they try to solve? -->
 <!-- What was lacking in existing research? -->
